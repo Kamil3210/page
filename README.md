@@ -2,21 +2,7 @@
 <html>
 <head>
 <title>Zadanie 4</title>
-<style>
-body {background-color: lightblue;}
-a	{color: blue; font-family: "Comic Sans Ms"}
-h1   {color: green; font-family: "Comic Sans Ms"}
-h2	{color: green; font-family: "Comic Sans Ms"}
-h3	{color: green; font-family: "Comic Sans Ms"}
-p    {color: blue; font-family: "Comic Sans Ms"}
-table, td, th	{color: magenta; font-family: "Comic Sans Ms"; border: 1px solid}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -60,9 +46,5 @@ table, td, th	{color: magenta; font-family: "Comic Sans Ms"; border: 1px solid}
 <br>
 
  <img src="valley.jpg" alt="Valley"> 
-		
-
-
-
 </body>
 </html>
